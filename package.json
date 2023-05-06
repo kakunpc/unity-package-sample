@@ -1,0 +1,6 @@
+{
+    "name": "com.kakunpc.unity-package-sample",
+    "displayName": "Unity Package Sample",
+    "version": "1.0.0",
+    "unity": "2021.3"
+}
